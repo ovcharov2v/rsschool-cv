@@ -36,7 +36,7 @@ mainMenuLinks.forEach(function(link) {
 ```
 
 ### Education
-Saratov State Technical University
+Saratov State Technical University... and self-education of couse!
 
 ### English
 Pre-intermediate
