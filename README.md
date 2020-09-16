@@ -1,0 +1,1 @@
+[https://ovcharov2v.github.io/rsschool-cv/cv](https://ovcharov2v.github.io/rsschool-cv/cv)
