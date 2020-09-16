@@ -21,7 +21,7 @@ The main goal is to improve quolity of my js code and to learn React.
 I am web developer with 4 years experience. Total count of completed projects - over 50.
 
 ### Code samples
-
+Sample code from one of [my current](https://github.com/ovcharov2v/petrobeton) projects
 ```js
 mainMenuLinks.forEach(function(link) {
 	link.addEventListener('mouseenter', function(event){			
@@ -34,6 +34,7 @@ mainMenuLinks.forEach(function(link) {
 	})
 })
 ```
+This project [in action](https://ptrbtn.o2v.dev/)
 
 ### Education
 Saratov State Technical University... and self-education of couse!
