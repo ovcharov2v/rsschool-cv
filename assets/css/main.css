@@ -6,6 +6,7 @@ body { margin: 0; }
 	display: flex;
 	width: 100%;
 	max-width: 1200px;
+	min-width: 360px;
 	margin: 0 auto;
 	padding: 30px 15px;
 }
@@ -126,3 +127,7 @@ ul li { margin-bottom: 7px; }
 }
 
 code { white-space: pre; }
+
+@media screen and (max-width: 550px) {
+	code { font-size: 14px }
+}
